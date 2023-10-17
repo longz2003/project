@@ -1,0 +1,7 @@
+We designed a manager for each business at first because the original game had it.
+
+When we code our program we found manager was not needed so we didn't use manager in the end.
+
+There are still codes in program with manager but not used.
+
+Without manager, we still can do everything for full mark. So we removed manager system.
